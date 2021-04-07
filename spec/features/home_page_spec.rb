@@ -21,7 +21,7 @@ RSpec.feature "Visitor navigates to home page", type: :feature, js: true do
     # ACT
     visit root_path
 
-    # # DEBUG
+    # DEBUG
     # save_and_open_screenshot
 
     # VERIFY
