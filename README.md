@@ -8,7 +8,11 @@ Admin credentials can be configured in your .env file. .env.example is provided 
 
 ## Screenshots
 
+!["Storefront"](https://github.com/luke-yin/jungle-rails/blob/master/docs/Store.jpeg)
 
+!["Cart"](https://github.com/luke-yin/jungle-rails/blob/master/docs/Cart.jpeg)
+
+!["Admin"](https://github.com/luke-yin/jungle-rails/blob/master/docs/Admin.jpeg)
 
 ## Additional Steps for Apple M1 Machines
 
