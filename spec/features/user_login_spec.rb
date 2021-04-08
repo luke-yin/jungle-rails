@@ -2,7 +2,7 @@ require 'rails_helper'
 
 RSpec.feature "UserLogins", type: :feature, js: true do
   before :each do
-    @user = User.create(name: "Test", email: "test@test.com", password: "password", password_confirmation: "password")
+    @user = User.create(first_name: "Test", last_name: "Tester", email: "test@test.com", password: "password", password_confirmation: "password")
   end
 
   scenario "User is able to login" do
